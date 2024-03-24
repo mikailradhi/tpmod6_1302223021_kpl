@@ -1,0 +1,15 @@
+C:\TP KPL\tpmod6_1302223021\tpmod6_1302223021\bin\Debug\net8.0\tpmod6_1302223021.exe
+C:\TP KPL\tpmod6_1302223021\tpmod6_1302223021\bin\Debug\net8.0\tpmod6_1302223021.deps.json
+C:\TP KPL\tpmod6_1302223021\tpmod6_1302223021\bin\Debug\net8.0\tpmod6_1302223021.runtimeconfig.json
+C:\TP KPL\tpmod6_1302223021\tpmod6_1302223021\bin\Debug\net8.0\tpmod6_1302223021.dll
+C:\TP KPL\tpmod6_1302223021\tpmod6_1302223021\bin\Debug\net8.0\tpmod6_1302223021.pdb
+C:\TP KPL\tpmod6_1302223021\tpmod6_1302223021\obj\Debug\net8.0\tpmod6_1302223021.GeneratedMSBuildEditorConfig.editorconfig
+C:\TP KPL\tpmod6_1302223021\tpmod6_1302223021\obj\Debug\net8.0\tpmod6_1302223021.AssemblyInfoInputs.cache
+C:\TP KPL\tpmod6_1302223021\tpmod6_1302223021\obj\Debug\net8.0\tpmod6_1302223021.AssemblyInfo.cs
+C:\TP KPL\tpmod6_1302223021\tpmod6_1302223021\obj\Debug\net8.0\tpmod6_1302223021.csproj.CoreCompileInputs.cache
+C:\TP KPL\tpmod6_1302223021\tpmod6_1302223021\obj\Debug\net8.0\tpmod6_1302223021.sourcelink.json
+C:\TP KPL\tpmod6_1302223021\tpmod6_1302223021\obj\Debug\net8.0\tpmod6_1302223021.dll
+C:\TP KPL\tpmod6_1302223021\tpmod6_1302223021\obj\Debug\net8.0\refint\tpmod6_1302223021.dll
+C:\TP KPL\tpmod6_1302223021\tpmod6_1302223021\obj\Debug\net8.0\tpmod6_1302223021.pdb
+C:\TP KPL\tpmod6_1302223021\tpmod6_1302223021\obj\Debug\net8.0\tpmod6_1302223021.genruntimeconfig.cache
+C:\TP KPL\tpmod6_1302223021\tpmod6_1302223021\obj\Debug\net8.0\ref\tpmod6_1302223021.dll
