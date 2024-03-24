@@ -76,7 +76,7 @@ public class SayaTubeVideo
 
     static void Main(string[] args)
     {
-        string judul = "Tutorial Design By Contract - Harits Azfa";
+        string judul = "Tutorial Design By Contract - Mikail Radhi Billah";
         SayaTubeVideo sayaTubeVideo = new SayaTubeVideo(judul);
         Random rand = new Random();
         int min = 1;
